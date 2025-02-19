@@ -9,10 +9,10 @@ public class a_e_b {
 		Scanner sc = new Scanner(System.in);
 		Double a, b, c, d;
 
-		System.out.println("Me informe sua velocidade");
+		System.out.println("Me informe o valor de a");
 		a = sc.nextDouble();
 
-		System.out.println("Me informe sua velocidade");
+		System.out.println("Me informe o valor de b");
 		b = sc.nextDouble();
 
 		c = b;
