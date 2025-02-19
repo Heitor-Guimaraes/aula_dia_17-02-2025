@@ -7,13 +7,13 @@ public class calculos {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		Double a, b, c, d, calc1, calc2, calc3, calc4, calc5, calc6, calc7, calc8, calc9, calc10, calc11, calc12;
-		System.out.println("Me o valor de d");
+		System.out.println("Me o valor de a");
 		a = sc.nextDouble();
 
-		System.out.println("Me o valor de d");
+		System.out.println("Me o valor de b");
 		b = sc.nextDouble();
 
-		System.out.println("Me o valor de d");
+		System.out.println("Me o valor de c");
 		c = sc.nextDouble();
 
 		System.out.println("Me o valor de d");
